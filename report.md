@@ -44,12 +44,6 @@ The next step is to decide what new information we’re going to store in the ce
 ## II. Implementation details
 ### 1. Implementation steps 
 
-In this part we describe the basic structure of a DPD model which will be implemented in our project. 
-
-|Step - 1 | Step - 2|Step - 3|
-|---------------|---------------|----------------|
-|![i](dpd1.png)|![o](dpd2.png)|![j](dpd3.png)|
-
 ### 2. Software Implementation
 
 To model the power amplifer we use python with tesnsorflow running in backend. We take some real power amplifier data and model the PA accordingly. Some of the snaps of training are mention here: 
@@ -203,8 +197,10 @@ The stratus HLS Model is describe here:
 - RISC V  <br/>
 ![o](4.png)
 - RISC V Multicore <br/>
-|Core - 0| Core - 1|
-|![i](31.png)|![o](32.png)|
+Core - 0 <br/>
+![i](31.png) <br/>
+Core - 1 <br/>
+![o](32.png)  <br/>
 
 - Comparitive Study  <br/>
 
