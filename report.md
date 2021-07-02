@@ -198,16 +198,15 @@ The stratus HLS Model is describe here:
 
 ## IV. Experimental results
 
-- Stratus 
+- Stratus <br/>
 ![o](41.PNG)
-- RISC V 
+- RISC V  <br/>
 ![o](4.png)
-- RISC V Multicore
+- RISC V Multicore <br/>
 |Core - 0| Core - 1|
-|---------------|---------------|
 |![i](31.png)|![o](32.png)|
 
-- Comparitive Study 
+- Comparitive Study  <br/>
 
 | |Simulated Time|
 |---------------|---------------|
