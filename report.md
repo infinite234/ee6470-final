@@ -1,4 +1,5 @@
-# ee6470-FINAL TERM PROJECT:Design and Implementation of LSTM Digital pre-distortion model inference on RISC V
+# ee6470-FINAL TERM PROJECT:
+# Design and Implementation of LSTM Digital pre-distortion model inference on RISC V
 
 # BY - Shaswat Satapathy (309591029) AND Shivani Singh (309591030 ) 
 
