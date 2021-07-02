@@ -192,14 +192,14 @@ int main(unsigned hart_id) {
 ## III. Design Model
 The stratus HLS Model is describe here: 
 
-![design](12.png)
+![design](12.PNG)
 
 
 
 ## IV. Experimental results
 
 - Stratus 
-![o](41.png)
+![o](41.PNG)
 - RISC V 
 ![o](4.png)
 - RISC V Multicore
