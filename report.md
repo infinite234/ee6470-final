@@ -27,3 +27,6 @@ long-term dependencies.Unlike regular RNN networks, LSTMs also have this chain l
 but the repeating module has a different structure.
 
 ### LSTM Gates
+The first step in our LSTM is to decide what information we’re going to throw away from the cell state<\br>
+
+The next step is to decide what new information we’re going to store in the cell state. This has two parts. First, a sigmoid layer called the “input gate layer” decides which values we’ll update. Next, a tanh layer creates a vector of new candidate values, C~t, that could be added to the state.
